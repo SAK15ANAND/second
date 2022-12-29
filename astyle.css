@@ -55,6 +55,7 @@ h3 {
 .intro {
     width: 25%;
     margin: auto;
+    line-height: 2;
 }
 .top-container {
     background-color:  #E4F9F5;
